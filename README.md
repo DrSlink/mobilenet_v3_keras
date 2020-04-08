@@ -1,7 +1,7 @@
 # MobileNetV3
 
 This folder contains building code for
-[MobilenetV3](https://arxiv.org/abs/1905.02244) networks.
+[MobilenetV3](https://arxiv.org/abs/1905.02244) networks. [PR to Keras](https://github.com/keras-team/keras-applications/pull/176).
 
 ## Performance
 
